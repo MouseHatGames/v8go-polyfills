@@ -23,8 +23,8 @@
 package main
 
 import (
+	"github.com/MouseHatGames/v8go-polyfills/console"
 	"github.com/tommie/v8go"
-	"go.kuoruan.net/v8go-polyfills/console"
 )
 
 func main() {

@@ -26,8 +26,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/MouseHatGames/v8go-polyfills/timers"
 	"github.com/tommie/v8go"
-	"go.kuoruan.net/v8go-polyfills/timers"
 )
 
 func main() {

@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/MouseHatGames/v8go-polyfills/console"
 	"github.com/tommie/v8go"
-	"go.kuoruan.net/v8go-polyfills/console"
 )
 
 func Test_SetTimeout(t *testing.T) {
